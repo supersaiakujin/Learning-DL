@@ -63,3 +63,5 @@ target/
 #temporary
 tmp/
 backup/
+#data directory
+data/
